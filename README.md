@@ -12,6 +12,8 @@ The use of a micrometer head to provide for VTA adjustments is certainly not a n
 
 This mechanism completely replaces the SME base plate, and has provisions for machine screw mounting (M4 countersunk) to the armboard.
 
+The usable range is at most 12mm with the HIGH variant (see below). Anything further compromises rigidity. However, given the tonearms themselves typically allow for some pillar leeway, the range is easily extended.
+
 ## Materials
 
 The mechanism is machined out of 6061 aluminium which is then clear anodized to provide for longevity. The gliding pins are machined out of bronze, and the sliding bushings out of PTFE (a more easily machinable alternative is POM). There are no restrictions to the materials that can be used as long as they satisfy the requirements of (1) being rigid, (2) non-magnetic and (3) machinable.
