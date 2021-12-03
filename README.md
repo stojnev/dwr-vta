@@ -1,9 +1,9 @@
 # dŵr VTA for SME
-"dŵr VTA for SME" is a mechanical device to provide easy VTA changes on tonearms requiring a SME cutout. The design aims to provide for changes which are repeatable and measurable, while maintaining mounting rigidity.
+"dŵr VTA for SME" is a mechanical device to provide easy VTA / SRA changes on tonearms requiring a SME cutout. The design aims to provide for changes which are repeatable and measurable, while maintaining mounting rigidity.
 
 ## Description
 
-The presented device aims to provide a means for vertical movement of the entire tonearm base to facilitate for changes to both VTA (Vertical Tracking Angle) and SRA (Stulus Rake Angle). It utilizes a precise micrometer head with a ⌀ 9.5mm mounting collar, and a sealed rolling bearing (SKF 638/5-2Z - 5x11x5) to provide rolling support. Stability is maintained via the use of ⌀ 4mm bronze pins that ride within PTFE bushings. Rigidity is maintained via the use of a locking thumbscrew on the rear end of the base.
+The presented device aims to provide a means for vertical movement of the entire tonearm base to facilitate for changes to both VTA (Vertical Tracking Angle) and SRA (Stylus Rake Angle). It utilizes a precise micrometer head with a ⌀ 9.5mm mounting collar, and a sealed rolling bearing (SKF 638/5-2Z - 5x11x5) to provide rolling support. Stability is maintained via the use of ⌀ 4mm bronze pins that ride within PTFE bushings. Rigidity is maintained via the use of a locking thumbscrew on the rear end of the base.
 
 The use of a micrometer head to provide for VTA adjustments is certainly not a novel idea - one early (and brilliant) example is the Audiomods tonearm series designed by Jeff Spall. What is different with this approach is:
 
